@@ -1,1 +1,6 @@
+<<<<<<< HEAD
+Hi - dev - cod
+  Hii
+=======
   Hi - dev
+>>>>>>> origin/master
